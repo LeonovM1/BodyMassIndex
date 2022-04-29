@@ -1,0 +1,10 @@
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\bin\Debug\Индекс Массы тела шарп.exe.config
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\bin\Debug\Индекс Массы тела шарп.exe
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\bin\Debug\Индекс Массы тела шарп.pdb
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\obj\Debug\Индекс_Массы_тела_шарп.Form1.resources
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\obj\Debug\Индекс_Массы_тела_шарп.Properties.Resources.resources
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\obj\Debug\Индекс Массы тела шарп.csproj.GenerateResource.cache
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\obj\Debug\Индекс Массы тела шарп.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\obj\Debug\Индекс Массы тела шарп.exe
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\obj\Debug\Индекс Массы тела шарп.pdb
+C:\Users\misha\source\repos\Индекс Массы тела шарп\Индекс Массы тела шарп\obj\Debug\Индекс Массы тела шарп.csprojAssemblyReference.cache
